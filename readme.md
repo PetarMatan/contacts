@@ -9,4 +9,5 @@ Client:
 Backend:
 
     Create empty db on sql server
+    Add database to apk config
     Run migrations
