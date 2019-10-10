@@ -1,5 +1,7 @@
 # petar_matan
 
+Create, save and edit sim/phone contacts
+
 Client:
 
     Position in manageContactsClientVue
